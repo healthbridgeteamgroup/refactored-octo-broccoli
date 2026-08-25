@@ -1,0 +1,8 @@
+name = "health-bridge-team"
+compatibility_date = "2026-08-26"
+pages_build_output_dir = "."
+
+[[d1_databases]]
+binding = "DB"
+database_name = "health-bridge-db"
+database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
